@@ -21,9 +21,9 @@ CREATE TABLE users (
 
 
 users = [
-    ('admin', '11111', 'admin', 'cool status', 'c92c0babdc764d8674bcea14a55d867d'),
+    ('admin', '00101', 'admin', 'cool status', 'c92c0babdc764d8674bcea14a55d867d'),
     ('user1', '32411', 'user', 'cool status', 'ef39fbf69170b58787ce4e574db9d842'),
-    ('user2', '56321', 'user', 'cool status', '3ab1faad513e753501264a716622ba06'),
+    ('user2', '56321', 'user', 'cool status', '3ab1faad513e753501264a716612ba06'),
     ('user3', '51331', 'user', 'cool status', '3ab1faad513e753501264a716622ba06'),
 
 ]
